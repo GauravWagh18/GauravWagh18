@@ -7,5 +7,5 @@
 - insta- @wagh___g.
 - email - waghgaurav300@gmail.com.
 - github - GauravWagh18
- Whether you're here to check out my projects, collaborate, or learn together, I appreciate your presence. Let's write elegant code, build exceptional web applications, and make the internet a better place, one 
- line at a time. Happy coding! 🚀✨
+- Whether you're here to check out my projects, collaborate, or learn together, I appreciate your presence. Let's write elegant code, build exceptional web applications, and make the internet a better place, one 
+  line at a time. Happy coding! 🚀✨
